@@ -1,13 +1,11 @@
-class User{
+abstract class User{
   userName:string;
   age:number;
   constructor(name:string,old:number){
     this.userName=name;
     this.age=old;
   }
-  display():void{
-    console.log(`Name:${this.userName} Age:${this.age}`);
-  }
+ abstract display():void;
 }
 
 
