@@ -1,0 +1,12 @@
+var User;
+User = [];
+var user1;
+user1 = { userName: 'Jamal', userId: 2 };
+User.push(user1);
+var user2;
+user2 = { userName: 'Kamal Hossen', userId: 1 };
+User.push(user2);
+var data = User.map(function (d) { return d; });
+console.log(data);
+var getResponst;
+getResponst = 'GET';
