@@ -1,3 +1,3 @@
 # TypeScript Basic To Advance Tutorial Bangla
 
-This Tutorial Provide by BD CODER
+This Tutorial Provide by BD CODER.
