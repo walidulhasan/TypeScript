@@ -1,3 +1,4 @@
+
 //Union Symbol --> |
 let data: string | number | boolean;
 
